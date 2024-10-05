@@ -26,5 +26,6 @@ This is a browser-based Rock-Paper-Scissors game where the player competes again
 HTML5: Provides the structure and layout of the game.  
 CSS3: Handles the responsive design, animations, and sleek styling.  
 JavaScript: Implements the game logic, including score tracking, random computer choice, and determining the winner.  
-Computer Algorithm:
+
+## Algorithm:
 The computer opponent uses a random selection algorithm. Each round, the computer randomly picks Rock, Paper, or Scissors with equal probability, ensuring an unpredictable and fair challenge for the player.
