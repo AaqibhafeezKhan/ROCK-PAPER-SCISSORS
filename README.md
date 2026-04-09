@@ -1,6 +1,6 @@
 # Rock Paper Scissors
 
-A high-performance, single-file implementation of the classic game with advanced features.
+A robust, high-performance vanilla JS implementation of Rock Paper Scissors with advanced state management and animations.
 
 ## Features
 - **Streak Counter**: Track consecutive wins with glowing indicators.
